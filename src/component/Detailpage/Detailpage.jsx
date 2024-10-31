@@ -2,7 +2,7 @@ import React, { useContext, useState } from "react";
 import { useParams } from "react-router-dom";
 import { BlogContext } from "../../context/Context";
 import logo from "../../assets/logo6.png";
-import "./Detailpage.css";
+import "./DetailPage.css";
 import Heading from '../../component/Heading/Heading'
 import GenerePage from "../GenerePage/GenerePage";
 import RatingModal from "../RatingModal/RatingModal"; // Import the RatingModal
