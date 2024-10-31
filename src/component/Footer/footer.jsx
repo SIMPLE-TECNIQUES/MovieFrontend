@@ -1,7 +1,7 @@
 import React from "react";
 import { FaYoutube, FaTelegramPlane, FaInstagram } from "react-icons/fa"; // Importing updated icons
 import "bootstrap/dist/css/bootstrap.min.css"; // Import Bootstrap CSS
-import "./Footer.css";
+import "./footer.css";
 
 const Footer = () => {
   return (
