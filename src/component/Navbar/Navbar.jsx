@@ -43,7 +43,7 @@ function NavBar() {
           </Form>
         </Nav>
         <div className="align-email-icon">
-          <a href="mailto:shankar.gce2021@gmail.com">
+          <a href="mailto:criticsmohan@gmail.com">
             <FaEnvelope color="black" className="email-align" />
           </a>
         </div>
