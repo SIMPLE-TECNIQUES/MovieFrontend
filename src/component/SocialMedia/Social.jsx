@@ -30,7 +30,7 @@ const Social = () => {
   }, []);
 
   const socialLinks = [
-    { link: "https://www.youtube.com/results?search_query=critics+mohan", icon: <FaYoutube size={iconSize} color="#2C2E43" /> },
+    { link: "https://youtube.com/@criticsmohan?si=O5MmSkG1JDMAGvEz", icon: <FaYoutube size={iconSize} color="#2C2E43" /> },
     { link: "https://www.instagram.com/mohanvlogger/", icon: <FaInstagram size={iconSize} color="#2C2E43" /> },
     { link: "https://t.me/CriticsMohans", icon: <FaTelegram size={iconSize} color="#2C2E43" /> },
     // { link: "https://wa.me", icon: <FaWhatsapp size={iconSize} color="#2C2E43" /> },
